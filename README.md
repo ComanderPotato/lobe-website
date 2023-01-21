@@ -2,7 +2,7 @@
 Old HTML and CSS project I did based off a website listed on [Frontendpractice.com](https://www.frontendpractice.com/), the original website is here [Lobe](https://www.lobe.ai/tour).
 
 ## My creation
-Here is my result for the [Lobe project] (https://incandescent-pithivier-2edacd.netlify.app/)
+Here is my result for the [Lobe project](https://incandescent-pithivier-2edacd.netlify.app/)
 
 
 ## Image of the website
